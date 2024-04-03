@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/pass_ic_money_received"
+        android:title="@string/bottom_navigation_item_title_1" />
+
+    <item
+        android:id="@+id/nav_mall"
+        android:icon="@drawable/pass_sa_cashback"
+        android:title="@string/bottom_navigation_item_title_2" />
+
+    <item
+        android:id="@+id/nav_scan"
+        android:icon="@drawable/barcode_scanner"
+        android:title="" />
+    <item
+        android:id="@+id/nav_wallet"
+        android:icon="@drawable/pass_sa_food_wallet"
+        android:title="@string/bottom_navigation_item_title_3" />
+    <item
+        android:id="@+id/nav_other"
+        android:icon="@drawable/pass_sa_other_wallets"
+        android:title="@string/bottom_navigation_item_title_4" />
+
+</menu>

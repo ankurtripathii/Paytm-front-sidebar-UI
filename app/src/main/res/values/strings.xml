@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Niyoin Paytm UI</string>
+
+    <string name="bottom_navigation_item_title_1">Cashback</string>
+    <string name="bottom_navigation_item_title_2">Shppoing</string>
+    <string name="bottom_navigation_item_title_3">Credit Card</string>
+    <string name="bottom_navigation_item_title_4">Loan</string>
+
+    <string name="drawer_navigation_item_title_1">Paytm Security Shield</string>
+    <string name="drawer_navigation_item_title_2">Help &amp; Support</string>
+    <string name="drawer_navigation_item_title_3">UPI &amp; Payment Setting</string>
+    <string name="drawer_navigation_item_title_4">Link Rupay Credit Card on UPI</string>
+    <string name="drawer_navigation_item_title_5">Orders &amp; Bookings</string>
+    <string name="drawer_navigation_item_title_6">Cashback &amp; Offers</string>
+    <string name="drawer_navigation_item_title_7">Tap &amp; Pay</string>
+    <string name="drawer_navigation_item_title_8">Profile Settings</string>
+    <string name="drawer_navigation_item_title_9">Credit at 0% interest</string>
+    <string name="drawer_navigation_item_title_10">Improved Loan amount</string>
+    <string name="drawer_navigation_item_title_11">Refer &amp; Win</string>
+    <string name="drawer_navigation_item_title_12">DigiLocker</string>
+    <string name="drawer_navigation_item_title_13">Pay your Credit Card Bill</string>
+    <string name="drawer_navigation_item_title_14">Mobile Recharge</string>
+    <string name="drawer_navigation_item_title_15">Become Merchant</string>
+    <string name="drawer_navigation_item_title_16">Your Paytm Guide</string>
+
+    <string name="drawer_navigation_header_text_view_text_1">Ankur Tripathi</string>
+    <string name="drawer_navigation_header_text_view_text_2">9410472662</string>
+    <string name="drawer_navigation_header_text_view_text_3">Paytm Payment Bank- 2662</string>
+    <string name="drawer_navigation_header_image_contentDescription_1">Profile Photo</string>
+    <string name="drawer_navigation_header_image_contentDescription_2">QR Code</string>
+    <string name="drawer_navigation_header_image_contentDescription_3">Arrow</string>
+
+    <string name="navigation_drawer_open">Open Drawer Navigation</string>
+    <string name="navigation_drawer_close">Close Drawer Navigation</string>
+
+    <string name="fragment_bank_text_1">Login to Paytm Payments Bank</string>
+    <string name="fragment_bank_text_2">Bank Saving Account</string>
+    <string name="fragment_bank_text_3">Registered Mobile Number</string>
+    <string name="fragment_bank_text_4">+91 9410472662</string>
+    <string name="fragment_bank_text_5">Enter Password</string>
+    <string name="fragment_bank_text_6">Login Securely</string>
+    <string name="fragment_bank_text_7">Forgot Passcode?</string>
+
+    <string name="fragment_home_text_0">Watches, Sungalsses at Flat 50% Cashback</string>
+    <string name="fragment_home_text_1">Movie Tickets</string>
+    <string name="fragment_home_text_2">Mobile\nPrepaid</string>
+    <string name="fragment_home_text_3">Electricity</string>
+    <string name="fragment_home_text_4">Google Play</string>
+    <string name="fragment_home_text_5">Vir Das</string>
+    <string name="fragment_home_text_6">Freebies\nInside</string>
+    <string name="fragment_home_text_7">Train Tickets</string>
+    <string name="fragment_home_text_8">Mobile\nPostpaid</string>
+    <string name="fragment_home_text_9">Cable Tv</string>
+    <string name="fragment_home_text_10">Toys and Kinds\nFashion</string>
+    <string name="fragment_home_text_11">Food Delivery</string>
+    <string name="fragment_home_text_12">More</string>
+    <string name="fragment_home_text_13">Pay</string>
+    <string name="fragment_home_text_14">UPI Money\nTransfer</string>
+    <string name="fragment_home_text_15">Passbook</string>
+    <string name="fragment_home_text_16">Paytm\nPostpaid</string>
+    <string name="fragment_home_text_17">Add Money</string>
+    <string name="fragment_home_text_18">Favourite\nStores</string>
+    <string name="fragment_home_text_19">Accept\nPayment</string>
+
+    <string name="fragment_mall_text_1">Top Shopping Offers</string>
+    <string name="txt_upi">UPI Lite: Activate         UPI ID: 9410472662@paytm</string>
+    <string name="txt_bbps">BILL PAYMENT BY BBPS</string>
+
+</resources>
